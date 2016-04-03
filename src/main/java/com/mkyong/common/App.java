@@ -16,7 +16,7 @@ public class App
         stock.setStockCode("4715");
         stock.setStockName("GENM");
         
-        //session.save(stock);
+        session.save(stock);
        
         
         
